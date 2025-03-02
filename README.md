@@ -39,5 +39,6 @@ This project is actively under development. New features are being added, and op
 ### Build Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ayoub-essarghini/Webserver.git
+   https://github.com/ayoub-essarghini/WebServer.git
    cd Webserver
+   make
